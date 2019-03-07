@@ -64,7 +64,13 @@ or go to the task bar and change it there. (Screenshot)
 
 ![result](./images/ergebniss.PNG)
 
- 
+## Uninstall:
+
+under Systemsettings/programs etc.
+
+![uninstall](./images/uninstall.png)
+
+just click uninstall. thats it.
 ##  MacOS Screenshots
 
 in Progress , use the Ukulele App.
