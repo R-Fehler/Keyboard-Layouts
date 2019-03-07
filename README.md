@@ -27,6 +27,11 @@ Ctrl+Alt pressed or AltGr (right side)
 ![special](./images/German-Special.PNG)
 Ctrl+Alt pressed or AltGr (right side) + Shift
 ![special-shift](./images/special-shift.PNG)
+
+so in combination with drawing the missing symbols on your keyboard with waterproof (not alcohol proof 😉) black pigment marker or white paint marker like so: (not 100% correct check for yourself)
+![white](./images/mac-white.jpg)
+and so : (not correct check for yourself)
+![black](./images/mac-black.jpg)
 ### Installation
 regular Setup
 
