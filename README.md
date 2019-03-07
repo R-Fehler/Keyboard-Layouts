@@ -30,7 +30,9 @@ Ctrl+Alt pressed or AltGr (right side) + Shift
 
 so in combination with drawing the missing symbols on your keyboard with waterproof (not alcohol proof 😉) black pigment marker or white paint marker like so: (not 100% correct check for yourself)
 ![white](./images/mac-white.jpg)
-and so : (not correct check for yourself)
+and so : (not correct check for yourself) 
+    
+    notice the tilde on this EU physical Layout in the left bottom ( ` and ~) very useful for Linux/MacOS: ~ == home directory etc.
 ![black](./images/mac-black.jpg)
 ### Installation
 regular Setup
