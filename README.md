@@ -15,6 +15,8 @@ But installing the MS Keyb Layout Cr. requires older .NET Runtimes on Win10.
     
 Downlaod the release zip file,
 or download the Zip file / clone the repository. the Setup files are included under ./eigen_de etc.
+
+For Maximum Efficiency map your escape key to the capslock key. (you dont use it anyway and you can escape much faster. sharpkeys or regedit under windows. macos supports it natively in settings.)
 ## Windows Screenshots
 Layouts:
 German regular 
