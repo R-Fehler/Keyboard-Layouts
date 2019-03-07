@@ -18,15 +18,15 @@ Download the Zip file or clone the repository. the Setup files are included.
 Layouts:
 German regular 
 
-![German](./images/German.png)
+![German](./images/German.PNG)
 US Version:
 
 ![US](./images/US.png)
 
 Ctrl+Alt pressed or AltGr (right side)
-![special](./images/German-Special.png)
+![special](./images/German-Special.PNG)
 Ctrl+Alt pressed or AltGr (right side) + Shift
-![special-shift](./images/special-shift.png)
+![special-shift](./images/special-shift.PNG)
 ### Installation
 regular Setup
 
@@ -48,7 +48,7 @@ select the "eigen" Layout
 Result: You can shift the Layout with Win+Space quick and easy.
 or go to the task bar and change it there. (Screenshot)
 
-![result](./images/ergebniss.png)
+![result](./images/ergebniss.PNG)
 
  
 ##  MacOS Screenshots
