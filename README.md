@@ -35,13 +35,19 @@ regular Setup
 
 if not already added, ad the English US Language.
 
+    now you might need to sign out of windows and sign in again
+
 ![US Sprache](./images/install2.png)
 
 in Options add an new Layout
 
 ![US Sprache](./images/install3.png)
 
+
 select the "eigen" Layout
+
+    now you might need to sign out of windows and sign in again
+
 
 ![US Sprache](./images/install4.png)
 
