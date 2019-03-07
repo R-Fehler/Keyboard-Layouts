@@ -13,7 +13,8 @@ But installing the MS Keyb Layout Cr. requires older .NET Runtimes on Win10.
     second row : ασ∂ƒϑ∆∑λöä«  // EU physical Layout: "«" is here
     third row : γξδ√βημ≤≥÷ 
     
-Download the Zip file or clone the repository. the Setup files are included.
+Downlaod the release zip file,
+or download the Zip file / clone the repository. the Setup files are included under ./eigen_de etc.
 ## Windows Screenshots
 Layouts:
 German regular 
