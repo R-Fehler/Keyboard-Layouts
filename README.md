@@ -11,7 +11,7 @@ But installing the MS Keyb Layout Cr. requires older .NET Runtimes on Win10.
     number row : ²³€∞× ∙ Øß≠
     first row : ωερθζ∫Ωπüφ 
     second row : ασ∂ƒϑ∆∑λöä«  // EU physical Layout: "«" is here
-    third row : γξδ√∫ημ≤≥÷ 
+    third row : γξδ√βημ≤≥÷ 
     
 Download the Zip file or clone the repository. the Setup files are included.
 ## Windows Screenshots
